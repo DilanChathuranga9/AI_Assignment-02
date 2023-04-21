@@ -5,6 +5,7 @@ The initial walker is intended to identify all male family members. For tasks th
 The second walker's objective is to identify family members' blood categories. Users will be able recognize family members with the same blood type and conduct further study according to this functionality.
 
 # Video
+https://drive.google.com/file/d/1TKP9MaOCUTjxxaymV52j7P9rI4WhfMf2/view?usp=share_link
 
 # Group Members
 180098E - Chathuranga K.D.D.      - DilanChathuranga9 <br>
