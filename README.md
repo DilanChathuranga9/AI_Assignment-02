@@ -1,6 +1,6 @@
 # AI_Assignment-02
 The source code for our Jaseci group project is available in this repository. This task entails using Jaseci, a platform for creating and carrying out complicated automation activities, to execute a particular use case.<br>
-Two additional walkers that improve the program's functioning have been added as new additions to the Jaseci application.<br>
+Additional walker that improve the program's functioning have been added as new additions to the Jaseci application.<br>
 
 The second walker's objective is to identify family members' blood categories. Users will be able recognize family members with the same blood type and conduct further study according to this functionality.
 
