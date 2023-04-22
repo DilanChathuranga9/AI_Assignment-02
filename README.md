@@ -7,6 +7,11 @@ The second walker's objective is to identify family members' blood categories. 
 # Video
 https://drive.google.com/file/d/1TKP9MaOCUTjxxaymV52j7P9rI4WhfMf2/view?usp=share_link
 
+
+https://user-images.githubusercontent.com/130594141/233777323-7a0229a4-cb4b-4c6b-87ff-207e2c23e41a.mp4
+
+
+
 # Group Members
 180098E - Chathuranga K.D.D.      - DilanChathuranga9 <br>
 180318G - Kasthuriarachchi H.P.   - HasiKasthuriarachchi <br>
